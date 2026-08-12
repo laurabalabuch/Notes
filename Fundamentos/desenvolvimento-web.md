@@ -18,7 +18,10 @@
 - Back-end (Server side) - linguagens PHP, JS node, Phyton, c#, Ruby, Java 
 - Full stack - Soma de ambos 
 
-
+## Cap 4 - Primeiro código HTML
+- Dentro do código existe apenas a área de HEAD e a área de BODY
+- Área HEAD é a parte de configurações do site 
+- View port - área de ocupação do site (será que aquele joguinho de pinball antigo tinha o view port pequeno, então?)
 
 
 
