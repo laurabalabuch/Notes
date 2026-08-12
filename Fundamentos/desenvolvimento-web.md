@@ -22,6 +22,18 @@
 - Dentro do código existe apenas a área de HEAD e a área de BODY
 - Área HEAD é a parte de configurações do site 
 - View port - área de ocupação do site (será que aquele joguinho de pinball antigo tinha o view port pequeno, então?)
+- h1 + enter (criação de várias tags a partir disso aí)
+- p = enter
+- Arquivo index para exercícios
+
+## Cap 4 - Caracteres, parágrafos e quebras de linha
+- O que determina o fim do parágrafo não é o enter, mas sim a marcação (tag)
+- Para criar quebras, existe uma marca para isso
+- tag br: break row (quebra de linha) - pra fazer poema e tals
+- Para fazer a tag aparecer em texto é necessário trocar os símbolos ><
+- &lt: Menor que < (less than)
+- &gt: Maior que > (grater than)
+
 
 
 
