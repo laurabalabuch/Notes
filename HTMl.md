@@ -1,6 +1,6 @@
 # HTML
 
-## Estrutura básica
+## 1. Estrutura básica
 
 
 ```html
@@ -22,3 +22,23 @@
 
 </html>
 ```
+
+## 2. Primeiro código HTML 
+
+```html
+<!DOCTYPE html>  --> Indica que é um HTML
+<html lang="pt-br"> --> Idioma 
+<head> --> 
+    <meta charset="UTF-8"> --> para acentuações
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu primeiro exercício</title> --> "Nome" do site
+</head>
+<body>
+    <h1>Olá, Mundo!</h1> --> título por causa do h1 (título de nível 1)
+    <hr> --> Linha horizonal (Horizontal row)
+    <p>Esse é meu primeiro documento HTML! Yay (na verdade é o segundo)</p>
+</body>
+</html>
+```
+
+### Dentro do HTML só existe duas áreas: Área HEAD e área BODY
