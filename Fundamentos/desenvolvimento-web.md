@@ -28,7 +28,8 @@
 
 ## Cap 4 - Caracteres, parágrafos e quebras de linha
 - O que determina o fim do parágrafo não é o enter, mas sim a marcação (tag)
-- Para criar quebras, existe uma marca para isso
+- HTML é uma linguagem de **marcação**
+- Para criar quebras, existe uma **marca** para isso
 - tag br: break row (quebra de linha) - pra fazer poema e tals
 - Para fazer a tag aparecer em texto é necessário trocar os símbolos ><
 - &lt: Menor que < (less than)
