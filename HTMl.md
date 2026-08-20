@@ -65,3 +65,31 @@
 </html>
 ```
 
+## 4. Símbolos e emojis
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 5 parte 2</title>
+</head>
+<body>
+    <h1>Símbolos, emojis e umas coisas mais</h1>
+    <hr>
+    <p>Para fazer um comentário podemos abrir uma tag, exclamação e dois traços. 
+    </p>
+    <p>Por exemplo, a seguir teremos um comentário meu sobre um livro a partir do título dele </p>
+    <p>Livro "Querida tia" <!--Meu livro está todo molhado pois coloquei sem querer minha garrafinha aberta na bolsa-->
+    </p>
+    <p><p></p></p>
+    <p> Eu ainda não sei colocar mais de dois parágrafos sem colocar vários "p"s então usarei isso por enquanto no código
+    </p>
+   <p>Aqui ele estava explicando sobre como colocar emojis mas eu me importo muito pouco sobre</p>
+   <p>Vamos adicionar alguns emojis. Para isso, vamos usar um site de emojis, e então vamos copiar e colar o codepoint, vamos marcar com &#x e colocar o número dentro 
+   </p>
+</body>
+</html>
+```
+
